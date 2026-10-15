@@ -1,8 +1,13 @@
-# God of War III Remastered for PC 
+### God of War III Remastered for PC Linux ARM Version
 
-<div align="center">
-  <a href="https://ko-fi.com/S7O428PBCC" target="_blank"><img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"></a>
-</div>
+
+https://github.com/user-attachments/assets/ef4cad08-d813-43ba-89a8-c821889c8708
+
+
+
+https://github.com/user-attachments/assets/32ec031d-fe39-49c6-8a5d-1b2d9ff94478
+
+
 
 **English** | [Português (Brasil)](README.pt-BR.md) | [Español](README.es.md)
 
